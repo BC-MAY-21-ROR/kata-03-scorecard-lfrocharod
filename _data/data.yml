@@ -7,13 +7,13 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: My Full Name # Nombre completo
-  tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
+  name: Luis Fernando Rocha Rodríguez # Nombre completo
+  tagline: Ruby on Rails Web Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: escudo.png # No modificar
 
   # Actualiza tus datos de contacto
-  email: name@brightcoders.com
-  phone:
+  email: lfrocharod01@gmail.com
+  phone: +52 312 118 6902
   website: # No agregar http://
   linkedin: brightcoders
   github: brightcoders
@@ -28,6 +28,7 @@ sidebar:
   languages:
     - idiom: English
       level: Fluent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+             Certification Cambridge FCE (B2)
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
@@ -45,6 +46,8 @@ sidebar:
 
     - item: Time Management
       link: # dejar en blanco
+    
+    - item: 
 
 # Registra aquí un resumen de tu perfil
 career-profile:
